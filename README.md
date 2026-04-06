@@ -124,12 +124,12 @@ An ML model that predicts battery life using performance parameters — deployed
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahadevaprasaddm&show_icons=true&hide_border=true&theme=midnight-purple&icon_color=e94560&title_color=e94560" height="155"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahadevaprasaddm&hide_border=true&theme=midnight-purple&ring=e94560&fire=e94560&currStreakLabel=e94560" height="155"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Prasaddm&show_icons=true&hide_border=true&theme=midnight-purple&icon_color=e94560&title_color=e94560" height="155"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prasaddm&hide_border=true&theme=midnight-purple&ring=e94560&fire=e94560&currStreakLabel=e94560" height="155"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahadevaprasaddm&layout=compact&theme=midnight-purple&hide_border=true&title_color=e94560"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasaddm&layout=compact&theme=midnight-purple&hide_border=true&title_color=e94560"/>
 </p>
 
 ---
