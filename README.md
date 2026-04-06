@@ -20,8 +20,6 @@ class Mahadevaprasad:
     name       = "Mahadevaprasad D M"
     location   = "Bangalore, Karnataka 🇮🇳"
     education  = "B.E. — Electronics & Communication Engg. (MIT Mysore)"
-    cgpa       = 8.0
-    status     = "Final Year | May 2025 Graduate"
 
     interests  = ["AI/ML", "IoT Systems", "Embedded Tech", "Full Stack Dev"]
     languages  = ["Python", "Core Java", "JavaScript", "SQL"]
